@@ -11,6 +11,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shresthasameerman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shresthasameerman&theme=dracula" height="150" alt="contribution graph" />
 </div>
 
 ## 🚀 Tech Stack
