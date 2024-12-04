@@ -65,5 +65,5 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="funny coding gif" width="800" height="400" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="cozy coding pixel gif" width="800" height="400" />
 </div>
