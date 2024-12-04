@@ -11,6 +11,9 @@
   <img src="https://streak-stats.demolab.com?user=shresthasameerman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shresthasameerman&bg_color=1a1b27&color=9b59b6&line=2ecc71&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</div>
 
 ## 🚀 Tech Stack
 <div align="center"> 
@@ -62,5 +65,5 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVjdTRqcjdxdzA5Mjh5Y3BseXF3NHB2cnMxd3Z1M2UzMmEwZnZldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDhnNx1lfAs2c/giphy.gif" alt="cozy pixel coding gif with coffee" width="600" height="400" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="cozy pixel coding gif with coffee" width="600" height="400" />
 </div>
