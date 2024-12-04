@@ -64,6 +64,3 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pixel person coding with coffee" width="600" height="400" />
-</div>
