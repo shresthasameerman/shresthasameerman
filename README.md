@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shresthasameerman&bg_color=1a1b27&color=9b59b6&line=2ecc71&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" height="150" alt="fun gif" />
 </div>
 
