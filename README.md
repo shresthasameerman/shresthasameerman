@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shresthasameerman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shresthasameerman&theme=dracula&hide_border=false" height="150" alt="wakatime graph" />
+  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=shresthasameerman&theme=dracula&hide_border=false" height="150" alt="commit activity chart" />
 </div>
 
 ## 🚀 Tech Stack
