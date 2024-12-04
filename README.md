@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" height="150" alt="fun gif" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shresthasameerman&bg_color=1a1b27&color=9b59b6&line=2ecc71&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ## 🚀 Tech Stack
@@ -61,3 +61,9 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 > "Technology is best when it brings people together." - Matt Mullenweg
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="800" height="400" />
+</div>
