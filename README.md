@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shresthasameerman&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=shresthasameerman&theme=dracula&hide_border=false" alt="streak graph" />
 </div>
 
 ---
