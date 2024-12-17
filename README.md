@@ -8,8 +8,10 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shresthasameerman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shresthasameerman&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
+
+---
 
 ## 🚀 Tech Stack
 <div align="center"> 
@@ -29,17 +31,17 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 
 ---
 
-### Current Journey
+### 🌱 Current Journey
 - 🏫 Studying BSc Computing at British College (2nd Year)
-- 🌱 Continuously learning and expanding my skill set
+- 🚀 Continuously learning and expanding my skill set
 - 📚 Exploring cutting-edge technologies
 
 ---
 
 ## 🤔 More About Me
 
-- 😄 Pronouns: he/him
-- ⚡ Dad Joke Champion: "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane." 🖥️
+- 😄 Pronouns: **he/him**
+- ⚡ Dad Joke Champion: *"I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane."* 🖥️
 
 ---
 
@@ -57,6 +59,3 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 > "Technology is best when it brings people together." - Matt Mullenweg
-
----
-
