@@ -8,8 +8,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.vercel.app/?user=shresthasameerman&theme=dracula&hide_border=false" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=shresthasameerman&theme=dracula&hide_border=false" alt="streak graph" />
 </div>
+
 ---
 
 ## 🚀 Tech Stack
@@ -58,5 +59,3 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 > "Technology is best when it brings people together." - Matt Mullenweg
-]
-
