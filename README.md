@@ -1,4 +1,4 @@
-[# Hi there! I'm Sameerman Shrestha 👋
+# Hi there! I'm Sameerman Shrestha 👋
 
 ## 🌟 About Me
 
