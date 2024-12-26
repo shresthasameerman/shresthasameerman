@@ -59,4 +59,5 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 ---
 
 > "Technology is best when it brings people together." - Matt Mullenweg
-](https://camo.githubusercontent.com/c7ab8f1abe9365fcc10924c5676e339ca8c8faebab5317758719bf708f215a41/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d617279616e677572616761696e26)
+]
+
