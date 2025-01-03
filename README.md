@@ -15,7 +15,7 @@
 
 ## 🚀 Tech Stack
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=py,javascript,react,godot,html,css,git,github,vscode" height="40" alt="tech stack" /> 
+  <img src="https://skillicons.dev/icons?i=py,javascript,react,godot,html,css,php,scss,git,github,vscode" height="40" alt="tech stack" /> 
 </div>
 
 ---
