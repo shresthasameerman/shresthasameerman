@@ -56,7 +56,7 @@ I specialize in multiple areas of technology:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="work gif" />
+  <img src="https://media.tenor.com/JBCnBB-6UiwAAAAM/rage-throw.gif" width="300" alt="rage throw gif" />
 </div>
 
 ---
