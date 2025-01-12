@@ -58,4 +58,12 @@ I'm a passionate technology enthusiast currently pursuing my BSc in Computing, e
 
 ---
 
+## 🎨 A Glimpse of My Work
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="work gif" />
+</div>
+
+---
+
 > "Technology is best when it brings people together." - Matt Mullenweg
