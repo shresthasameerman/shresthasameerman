@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shresthasameerman&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthasameerman&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthasameerman&layout=compact&langs_count=6&theme=dracula&hide_border=false&exclude=html,css,scss" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -14,42 +14,38 @@ I am a passionate **tech enthusiast** and **creative developer**, currently purs
 
 ### 📌 Current Status
 - 🎓 **2nd Year BSc Computing** student at **British College**
-- 🌱 Always learning and exploring new technologies
+- 🌱 Deep diving into **Flutter & Godot Engine**
 - 🚀 Building projects that challenge and inspire
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,javascript,react,godot,html,css,php,scss,git,github,vscode,dart,flutter" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,dart,flutter,py,godot,js,git,github,vscode,mysql" height="40" alt="Tech Stack" />
 </div>
 
 ## 🚀 What I Do
-- 🎮 **Game Development** – Creating immersive gaming experiences with **Godot**
-- 🌐 **Web Development** – Building responsive, dynamic websites with **React & PHP**
-- 📱 **App Development** – Crafting user-friendly mobile applications with **Flutter**
-- 📸 **Photography** – Capturing moments through a creative lens
-
-## 🌟 Highlights
-- 💼 Building a portfolio with diverse projects
-- 🔍 Exploring cutting-edge technologies
-- 🤝 Open to collaborations and exciting opportunities
+- 🎮 **Game Development** – Crafting 2D/3D experiences with **Godot & GDScript**
+- 📱 **Mobile Development** – Building cross-platform apps with **Flutter**
+- 🌐 **Web Development** – Creating dynamic websites with **PHP**
+- 🤖 **Automation** – Developing Python scripts for workflow optimization
 
 ## 🎯 Focus Areas
-- **Frontend Development** with React & JavaScript
-- **Game Development** using Godot Engine
-- **Full-stack Web Applications**
-- **Mobile App Development** with Flutter
+- **Mobile Development**: Flutter & Dart ecosystem
+- **Game Development**: Godot Engine & game design patterns
+- **Web Development**: PHP for backend solutions
+- **Python Automation**: Scripting & backend integration
 
 ## 🎉 Fun Facts
 - 😄 **Pronouns**: he/him
-- 💻 **Tech Humor**: "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane." 🖥️
-- 🎯 Always up for a coding challenge!
+- 🎮 **Gaming Philosophy**: "Good game design is invisible - you notice it most when it's missing"
+- 🧠 **Learning**: Currently exploring Three.js for 3D web experiences
+- 🎯 Can solve a Rubik's cube in under 2 minutes!
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:your.email@domain.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
   </a>
 </div>
@@ -59,4 +55,4 @@ I am a passionate **tech enthusiast** and **creative developer**, currently purs
 </div>
 
 ---
-> "Code is poetry written in logic." 💭
+> "The best error message is the one that never shows up." 💭
