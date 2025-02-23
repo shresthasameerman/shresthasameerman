@@ -2,57 +2,70 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shresthasameerman&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthasameerman&layout=compact&langs_count=6&theme=dracula&hide_border=false&exclude=html,css,scss" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthasameerman&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shresthasameerman&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
 </div>
 
-## 🎯 About Me
-I am a passionate **tech enthusiast** and **creative developer**, currently pursuing my **BSc in Computing**. My journey in technology is fueled by curiosity and a drive to create impactful solutions.
+## 🎓 About Me
+I'm a passionate software developer and tech enthusiast currently pursuing my **BSc in Computing** at **The British College**. With a deep love for both mobile and game development, I strive to create innovative solutions that make a difference.
 
-### 📌 Current Status
-- 🎓 **2nd Year BSc Computing** student at **British College**
-- 🌱 Deep diving into **Flutter & Godot Engine**
-- 🚀 Building projects that challenge and inspire
+### 🚀 Current Journey
+- 📚 2nd Year Computing Student at The British College
+- 🌱 Mastering Flutter for cross-platform development
+- 🎮 Exploring game development with Godot Engine
+- 🤖 Building automation solutions with Python
 
-## 💻 Tech Stack
+## 💻 Technical Arsenal
+
+### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,dart,flutter,py,godot,js,git,github,vscode,mysql" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,py,godot,php,js" height="40" alt="Primary Skills" />
 </div>
 
-## 🚀 What I Do
-- 🎮 **Game Development** – Crafting 2D/3D experiences with **Godot & GDScript**
-- 📱 **Mobile Development** – Building cross-platform apps with **Flutter**
-- 🌐 **Web Development** – Creating dynamic websites with **PHP**
-- 🤖 **Automation** – Developing Python scripts for workflow optimization
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,firebase" height="40" alt="Development Tools" />
+</div>
 
-## 🎯 Focus Areas
-- **Mobile Development**: Flutter & Dart ecosystem
-- **Game Development**: Godot Engine & game design patterns
-- **Web Development**: PHP for backend solutions
-- **Python Automation**: Scripting & backend integration
+## 🎯 Expertise Areas
 
-## 🎉 Fun Facts
-- 😄 **Pronouns**: he/him
-- 🎮 **Gaming Philosophy**: "Good game design is invisible - you notice it most when it's missing"
-- 🧠 **Learning**: Currently exploring Three.js for 3D web experiences
-- 🎯 Can solve a Rubik's cube in under 2 minutes!
+### Mobile Development
+- 📱 Cross-platform application development with Flutter & Dart
+- 📊 State management and clean architecture implementation
+- 🔄 REST API integration and local data persistence
 
-## 📫 Let's Connect!
+### Game Development
+- 🎮 2D/3D game creation using Godot Engine
+- 🎨 Game design and mechanics implementation
+- 🔧 Custom shader and particle system development
+
+### Web Solutions
+- 🌐 Dynamic web applications with PHP
+- 🔐 Secure authentication and authorization systems
+- 📦 Database design and optimization with MySQL
+
+## 🌟 Fun Facts & Interests
+- 🧩 Rubik's cube enthusiast - sub-2-minute solver!
+- 🎮 Firm believer in "gameplay over graphics"
+- 🌱 Always learning - currently exploring Three.js
+- 🎵 Coding with lofi beats in the background
+
+## 📫 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/JBCnBB-6UiwAAAAM/rage-throw.gif" width="300" alt="Rage Throw GIF" />
+  <img src="https://media.tenor.com/JBCnBB-6UiwAAAAM/rage-throw.gif" width="300" alt="Coding Animation" />
 </div>
 
 ---
-> "The best error message is the one that never shows up." 💭
+> "Code is like humor. When you have to explain it, it's bad." - Cory House 💭
