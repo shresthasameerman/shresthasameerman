@@ -27,7 +27,7 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 
 ### Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,vscode,mysql" height="40" alt="Development Tools" />
 </div>
 
 ## 🎯 Expertise Areas
@@ -36,6 +36,7 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 - 📱 Cross-platform application development with Flutter & Dart
 - 📊 State management and clean architecture implementation
 - 🔄 REST API integration and local data persistence
+- 📲 Android development with Android Studio
 
 ### Game Development
 - 🎮 2D/3D game creation using Godot Engine
@@ -46,6 +47,7 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 - 🌐 Dynamic web applications with PHP
 - 🔐 Secure authentication and authorization systems
 - 📦 Database design and optimization with MySQL
+- 💻 Java development with IntelliJ IDEA
 
 ## 🌟 Fun Facts & Interests
 - 🧩 Rubik's cube enthusiast - sub-2-minute solver!
