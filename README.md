@@ -15,19 +15,19 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 ### 🚀 Current Journey
 - 📚 2nd Year Computing Student at The British College
 - 🌱 Mastering Flutter for cross-platform development
-- 🎮 Exploring game development with Godot Engine
+- 🎮 Exploring game development with Godot Engine & Unreal Engine 5
 - 🤖 Building automation solutions with Python
 
 ## 💻 Technical Arsenal
 
 ### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,py,godot,php,js" height="40" alt="Primary Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,py,cpp,csharp,php,js" height="40" alt="Languages & Frameworks" />
 </div>
 
 ### Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,vscode,mysql" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github,vscode,mysql,unreal" height="40" alt="Tools & Tech" />
 </div>
 
 ## 🎯 Expertise Areas
@@ -39,7 +39,8 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 - 📲 Android development with Android Studio
 
 ### Game Development
-- 🎮 2D/3D game creation using Godot Engine
+- 🎮 2D/3D game creation using Godot Engine & Unreal Engine 5
+- 🧠 Blueprint scripting and C++ programming in Unreal
 - 🎨 Game design and mechanics implementation
 - 🔧 Custom shader and particle system development
 
