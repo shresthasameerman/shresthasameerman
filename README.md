@@ -13,16 +13,16 @@
 I'm a passionate software developer and tech enthusiast currently pursuing my **BSc in Computing** at **The British College**. With a deep love for both mobile and game development, I strive to create innovative solutions that make a difference.
 
 ### 🚀 Current Journey
-- 📚 2nd Year Computing Student at The British College
-- 🌱 Mastering Flutter for cross-platform development
-- 🎮 Exploring game development with Godot Engine & Unreal Engine 5
-- 🤖 Building automation solutions with Python
+- 📚 2nd Year Computing Student at The British College  
+- 💻 Strengthening core programming with **C, C++ & Java**  
+- 🎮 Exploring game development with **Godot Engine & Unreal Engine 5**  
+- 🤖 Building automation and backend solutions  
 
 ## 💻 Technical Arsenal
 
 ### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,py,cpp,csharp,php,js" height="40" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,csharp" height="40" alt="Languages & Frameworks" />
 </div>
 
 ### Tools & Technologies
@@ -32,29 +32,27 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 
 ## 🎯 Expertise Areas
 
-### Mobile Development
-- 📱 Cross-platform application development with Flutter & Dart
-- 📊 State management and clean architecture implementation
-- 🔄 REST API integration and local data persistence
-- 📲 Android development with Android Studio
+### Software Development
+- ⚙️ Object-oriented programming in C++, Java & C#  
+- 🧩 Data structures, algorithms, and memory management  
+- 🧠 Problem-solving and optimization  
 
 ### Game Development
-- 🎮 2D/3D game creation using Godot Engine & Unreal Engine 5
-- 🧠 Blueprint scripting and C++ programming in Unreal
-- 🎨 Game design and mechanics implementation
-- 🔧 Custom shader and particle system development
+- 🎮 2D/3D game creation using Godot Engine & Unreal Engine 5  
+- 🧠 Blueprint scripting and C++ programming in Unreal  
+- 🎨 Game design and mechanics implementation  
+- 🔧 Custom shader and particle system development  
 
-### Web Solutions
-- 🌐 Dynamic web applications with PHP
-- 🔐 Secure authentication and authorization systems
-- 📦 Database design and optimization with MySQL
-- 💻 Java development with IntelliJ IDEA
+### Web & Backend Solutions
+- 🌐 Dynamic and database-driven systems  
+- 🔐 Secure authentication and backend architecture  
+- 📦 Database design and optimization with MySQL  
 
 ## 🌟 Fun Facts & Interests
-- 🧩 Rubik's cube enthusiast - sub-2-minute solver!
-- 🎮 Firm believer in "gameplay over graphics"
-- 🌱 Always learning - currently exploring Three.js
-- 🎵 Coding with lofi beats in the background
+- 🧩 Rubik's cube enthusiast - sub-2-minute solver!  
+- 🎮 Firm believer in "gameplay over graphics"  
+- 🌱 Currently exploring low-level programming & graphics engines  
+- 🎵 Coding with lofi beats in the background  
 
 ## 📫 Connect With Me
 <div align="center">
