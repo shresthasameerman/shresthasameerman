@@ -27,7 +27,7 @@ I'm a passionate software developer and tech enthusiast currently pursuing my **
 
 ### Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rider,clion,idea,git,github,vscode,mysql,unreal" height="40" alt="Tools & Tech" />
+  <img src="https://skillicons.dev/icons?i=rider,clion,idea,git,github,vscode,unreal" height="40" alt="Tools & Tech" />
 </div>
 
 ## 🎯 Expertise Areas
