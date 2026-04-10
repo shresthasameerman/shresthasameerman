@@ -13,7 +13,7 @@
 I'm a passionate software developer and tech enthusiast currently pursuing my **BSc in Computing** at **The British College**. With a deep love for both mobile and game development, I strive to create innovative solutions that make a difference.
 
 ### 🚀 Current Journey
-- 📚 2nd Year Computing Student at The British College  
+- 📚 3rd Year Computing Student at The British College  
 - 💻 Strengthening core programming with **C, C++ & Java**  
 - 🎮 Exploring game development with **Godot Engine & Unreal Engine 5**  
 - 🤖 Building automation and backend solutions  
